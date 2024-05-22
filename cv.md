@@ -63,5 +63,5 @@ details and the ability to complete projects in term.
 # **Langueges**:
 * English - Intermediate/Upper-intermediate 
 * Russian - Native
- *Kazah - Native
+* Kazakh - Native
 
